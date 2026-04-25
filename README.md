@@ -11,7 +11,7 @@ This project has evolved from a pure Backend API to a Full-Stack AI Product. Bui
 Dynamic Recruiter Dashboard: Real-time visualization of job stats and application counts.
 
 AI Scoring UI: Interactive progress bars and scorecards for candidate-job matching.
-
+ 
 AI Matcher Module: A dedicated interface for uploading PDF resumes and receiving instant feedback.
 
 Responsive Design: Optimized for both desktop and mobile viewing.
