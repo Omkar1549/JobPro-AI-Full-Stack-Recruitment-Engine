@@ -1,6 +1,5 @@
 🚀 JobPro AI: Full-Stack Recruitment Engine (21-Day Mastery Challenge)
 
-📌 Prz
 
 This project has evolved from a pure Backend API to a Full-Stack AI Product. Built during a 21-day intensive challenge, it automates the end-to-end recruitment workflow—from PDF parsing and AI-driven matching to a visual recruiter dashboard.
 
